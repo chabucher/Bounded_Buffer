@@ -1,4 +1,6 @@
-# CPSC_351_Assignment3
+# Bounded Buffer - CPSC 351: Assignment3
+
+Implements a solution for the producer/consumer issue on a bounded buffer. Demonstrates knowledge of mutex locks, and data integrity.
 
 Significant portion of code modified/used from Professor Justin Okun of California State University Fullerton, Spring 2017, CPSC 351.
 
