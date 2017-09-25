@@ -6,7 +6,7 @@ CC = g++
 INCLUDEs =
 LIBS = -pthread
 
-assignment3:${OBJS}
+bounded_buffer:${OBJS}
 	${CC} ${CFLAGS} ${INCLUDES} ${LIBS} -o $@ ${OBJS}
 
 clean:
